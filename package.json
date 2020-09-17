@@ -10,5 +10,8 @@
   "devDependencies": {
     "@vuepress/theme-blog": "^2.3.2",
     "vuepress": "^1.5.4"
+  },
+  "resolutions": {
+    "postcss": "6"
   }
 }
