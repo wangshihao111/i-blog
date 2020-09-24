@@ -9,6 +9,14 @@ module.exports = {
       // layout: 'Pagination', // Layout for pagination page
   
     },
+    footer: {
+      copyright: [
+        {
+          text: '备案/许可证号: 豫ICP备2020028333号',
+          link: 'http://beian.miit.gov.cn/',
+        },
+      ],
+    },
     nav: [
       {
         text: 'Blog',
