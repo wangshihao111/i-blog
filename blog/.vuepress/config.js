@@ -32,7 +32,7 @@ module.exports = {
         id: 'post', // Unique id for current classifier
         dirname: '_posts', // Matched directory name
         path: '/', // Entry page for current classifier
-        title: 'i博客', // Entry and pagination page titles for current classifier.
+        title: '萝卜手记', // Entry and pagination page titles for current classifier.
         // layout: 'IndexWriting', // Layout component name for entry page.
         frontmatter:{ //Front matter for entry page.
           tag: 'vuepress'
