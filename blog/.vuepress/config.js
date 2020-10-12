@@ -18,7 +18,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: '地址：河南省汝州市',
+          text: '地址：河南省汝州市焦村乡邢村侯湾',
           link: 'index'
         },
         {
