@@ -10,7 +10,21 @@ module.exports = {
   
     },
     footer: {
+      contact: [
+        {
+          type: 'phone',
+          link: 'tel:18539485132',
+        },
+      ],
       copyright: [
+        {
+          text: '地址：河南省汝州市',
+          link: 'index'
+        },
+        {
+          text: '联系电话：18539485132',
+          link: 'index'
+        },
         {
           text: '备案/许可证号: 豫ICP备2020028333号',
           link: 'http://beian.miit.gov.cn/',
