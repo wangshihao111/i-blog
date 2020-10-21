@@ -26,7 +26,7 @@ module.exports = {
           link: 'index'
         },
         {
-          text: '备案/许可证号: 豫ICP备2020028333号',
+          text: '备案/许可证号: 豫ICP备2020028333号-1',
           link: 'http://beian.miit.gov.cn/',
         },
       ],
